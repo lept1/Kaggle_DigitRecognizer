@@ -4,7 +4,7 @@
 ```python
 import sys
 
-MODULE_FULL_PATH = '/home/leptone/Libraries'
+MODULE_FULL_PATH = '../Libraries'
 
 sys.path.insert(1, MODULE_FULL_PATH)
 
